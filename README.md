@@ -1,2 +1,3 @@
-### hoverboard можно посмотреть ниже по ссылке:
+## hoverboard 
+### Ховер-доску можно посмотреть по ссылке ниже:
 # https://irinaperezhegina.github.io/hoverboard/
